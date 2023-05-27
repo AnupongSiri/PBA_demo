@@ -1,6 +1,6 @@
 # Probabilistic bias analysis (PBA) 
 Demo application of probabilistic bias analysis for agregated data <br />
-Cover PBA for selection bias, uncontrolled confounding, and multiple bias analysis of selection bias and uncontrolled confounding <br />  
+Cover PBA for non-differential misclassification of exposure, selection bias (live-birth bias), uncontrolled confounding (confounding by indication), and multiple bias analysis <br />  
 Created by Anupong Sirirungreung <br />
 Email: anusiri@g.ucla.edu <br />
 Department of Epidemiology, Fielding School of Public Health, UCLA
