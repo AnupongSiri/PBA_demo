@@ -14,6 +14,7 @@ episensr <br />
 shiny <br />
 ggplot2 <br />
 tidyr <br />
+plotly <br />
 
 # Original article
 Haine D (2021). “The episensr package: basic sensitivity analysis of epidemiological results.” doi:10.5281/zenodo.4554553, R package version 1.1.0, https://dhaine.github.io/episensr/
